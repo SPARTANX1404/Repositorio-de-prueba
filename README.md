@@ -1,7 +1,6 @@
 # Repositorio-de-prueba
-Repositorio de prácticas
+Se anexará código ensamblador
 # Código en ensamblador
-Se anexa el código ensamblador solicitado
 Resultado EQU 0x2E0; Esta línea marca donde guardar el valor del resultado
 MOV 	A, 5; Aquí marca donde almacenar el primer valor de la operación
 MOV 	B, 4; Aquí se marca donde almacenar el segundo valor de la operación
